@@ -3,6 +3,10 @@ OpenAI Gym
 
 **OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.** This is the ``gym`` open-source library, which gives you access to a standardized set of environments.
 
+Newly added features:
+1. Add visualization code for perturbation forces
+2. Add new environments for experiment
+
 .. image:: https://travis-ci.org/openai/gym.svg?branch=master
     :target: https://travis-ci.org/openai/gym
 
