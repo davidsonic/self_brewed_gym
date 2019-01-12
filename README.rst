@@ -5,9 +5,9 @@ OpenAI Gym
 
 Newly added features:
 
-- Add visualization code for perturbation forces
+- **Add visualization code for perturbation forces**
 
-- Add new environments for experiment
+- **Add new environments for experiment**
 
 .. image:: https://travis-ci.org/openai/gym.svg?branch=master
     :target: https://travis-ci.org/openai/gym
